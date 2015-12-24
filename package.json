@@ -1,13 +1,13 @@
 {
   "name": "downloadfile",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "download file lib for browser.",
   "main": "lib/index.js",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/luqin/downloadfile-js"
+    "url": "https://github.com/luqin/downloadfile.js"
   },
   "license": "ISC",
   "peerDependencies": {

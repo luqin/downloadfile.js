@@ -12,12 +12,12 @@ npm i downloadfile --save
 ```js
 import downloadfile from 'downloadfile';
 
-downloadfile('https://github.com/luqin/downloadfile-js/archive/master.zip');
+downloadfile('https://github.com/luqin/downloadfile.js/archive/master.zip');
 
 # or 
 
 downloadfile({
-    url: 'https://github.com/luqin/downloadfile-js/archive/master.zip',
+    url: 'https://github.com/luqin/downloadfile.js/archive/master.zip',
     data: {
         user: 'user'
     }
