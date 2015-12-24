@@ -14,7 +14,7 @@ import downloadfile from 'downloadfile';
 
 downloadfile('https://github.com/luqin/downloadfile.js/archive/master.zip');
 
-# or 
+// support submit data by post
 
 downloadfile({
     url: 'https://github.com/luqin/downloadfile.js/archive/master.zip',
