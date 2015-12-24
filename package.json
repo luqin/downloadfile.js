@@ -1,0 +1,25 @@
+{
+  "name": "downloadfile",
+  "version": "0.1.1",
+  "description": "download file lib for browser.",
+  "main": "lib/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luqin/downloadfile-js"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "download",
+    "file",
+    "downloadfile",
+    "browser"
+  ]
+}
